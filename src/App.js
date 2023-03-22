@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logo.svg'; // acho que é essa linha o problema tentar comnetar ela toda.
 import './App.css';
 
 function App() {
